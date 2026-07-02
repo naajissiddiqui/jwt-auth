@@ -78,8 +78,8 @@ src
 ## Clone Repository
 
 ```bash
-git clone <repository-url>
-cd jwt-auth-assignment
+git clone https://github.com/naajissiddiqui/jwt-auth.git
+cd jwt-auth
 ```
 
 ---
