@@ -2,6 +2,7 @@
 
 A minimal JWT-based authentication system built using **Node.js**, **TypeScript**, and **Express** to demonstrate authentication fundamentals, secure password handling, token-based authentication, and clean backend architecture.
 
+
 ---
 
 ## Features
